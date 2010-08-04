@@ -1,6 +1,6 @@
 [user]
-  name = Matt Sparks
-  email = ms@quadpoint.org
+	name = mye
+	email = lorenz@quub.de
 
 [alias]
   ci = commit -a
