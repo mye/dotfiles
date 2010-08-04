@@ -1,8 +1,30 @@
 # Copied from sources around the internet including:
 # http://github.com/godlygeek/zsh-files/blob/master/.zshrc
 # http://git.grml.org/?p=grml-etc-core.git;a=blob_plain;f=etc/zsh/zshrc;hb=HEAD
+PATH="$HOME/scripts:/usr/local/bin:/usr/bin:/bin"
+JAVA="$W/CommonFiles/Java/bin"
+SYSIN="$W/SysinternalsSuite"
+PATH="$PATH:$JAVA:$SYSIN"
+### Cygwin/Windows integration
+# This gets us the cygwin path to the directory above cygwins /
+export PORTABLE="$(dirname -- "$(cygpath -m /)" | xargs -0 cygpath)"
+export W="$PORTABLE/windows"
+export WW="$(cygpath -wa "$W")"
+export CYGWIN="nodosfilewarning tty notitle glob"
+export MANPATH="$W/mingw/man:$MANPATH"
+alias cdd='cd "$(cygpath -D)"'
+alias cdp='cd "$PORTABLE"'
+alias explorer='cyg-wrapper.sh "$WINDIR/explorer ." --slashed-opt'
+alias ahk='cyg-wrapper.sh "$W/ahk/AutoHotkey" &'
+gvim()
+{
+  unset VIM VIMRUNTIME MYVIMRC
+  cyg-wrapper.sh "$W/vim/vim72self/gvim.exe" \
+    --binary-opt=-c,--cmd,-T,-t,--servername,--remote-send,--remote-expr \
+    --cyg-verbose --fork=1 "$@"
+}
+
 ### SETUP
-PATH="$HOME/scripts:$PATH"
 # These settings are only for interactive shells. Return if not interactive.
 # This stops us from ever accidentally executing, rather than sourcing, .zshrc
 [[ -o nointeractive ]] && return
@@ -174,26 +196,3 @@ function cs() {
 
 ## vim:fdm=expr:fdl=0
 ## vim:fde=getline(v\:lnum)=~'^##'?'>'.(matchend(getline(v\:lnum),'##*')-2)\:'='
-
-#PATH="$HOME/scripts:/usr/local/bin:/usr/bin:/bin"
-#JAVA="$W/CommonFiles/Java/bin"
-#SYSIN="$W/SysinternalsSuite"
-#PATH="$PATH:$JAVA:$SYSIN"
-#### Cygwin/Windows integration
-## This gets us the cygwin path to the directory above cygwins /
-#export PORTABLE="$(dirname -- "$(cygpath -m /)" | xargs -0 cygpath)"
-#export W="$PORTABLE/windows"
-#export WW="$(cygpath -wa "$W")"
-#export CYGWIN="nodosfilewarning tty notitle glob"
-#export MANPATH="$W/mingw/man:$MANPATH"
-#alias cdd='cd "$(cygpath -D)"'
-#alias cdp='cd "$PORTABLE"'
-#alias explorer='cyg-wrapper.sh "$WINDIR/explorer ." --slashed-opt'
-#alias ahk='cyg-wrapper.sh "$W/ahk/AutoHotkey" &'
-#gvim()
-#{
-  #unset VIM VIMRUNTIME MYVIMRC
-  #cyg-wrapper.sh "$W/vim/vim72self/gvim.exe" \
-    #--binary-opt=-c,--cmd,-T,-t,--servername,--remote-send,--remote-expr \
-    #--cyg-verbose --fork=1 "$@"
-#}
