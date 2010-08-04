@@ -1,0 +1,13 @@
+xmodmap ~/.Xmodmap
+xrdb ~/.Xdefaults
+xrdb -merge ~/.Xresources
+
+#xrandr --output DVI-I-1 --rotate left
+#xrandr --output DVI-I-0 --right-of DVI-I-1
+
+while true
+do
+  xsetroot -name "$(date +'%R %b %d')"
+  sleep 3
+done &
+exec xmonad

@@ -1,0 +1,37 @@
+UXTerm*utf8: 1
+UXTerm*eightBitInput: false
+UXTerm*metaSendsEscape: true
+UXTerm*font:            -misc-fixed-medium-r-normal-*-*-140-*-*-*-*-iso10646-1
+UXTerm*boldMode: false
+UXTerm*boldFont:
+
+UXTerm*.background: black
+UXTerm*.foreground: lightgrey
+
+! Fix backspace key in terminal
+! Remaps backspace key from <c-h> to <c-?>, and remaps <c-space> to <c-h>.
+*VT100.Translations:#override \
+      ~Ctrl<Key>BackSpace:string(0x7F)\n\
+       Ctrl<Key>BackSpace:string(0x08)\n
+*ttyModes:erase ^?
+
+! Fix backspace key in vim
+*VT100.backarrowKey:false
+
+!Tango Color Theme xterm
+UXterm*color0:  rgb:2e2e/3434/3636
+UXterm*color1:  rgb:cccc/0000/0000
+UXterm*color2:  rgb:4e4e/9a9a/0606
+UXterm*color3:  rgb:c4c4/a0a0/0000
+UXterm*color4:  rgb:3434/6565/a4a4
+UXterm*color5:  rgb:7575/5050/7b7b
+UXterm*color6:  rgb:0606/9820/9a9a
+UXterm*color7:  rgb:d3d3/d7d7/cfcf
+UXterm*color8:  rgb:5555/5757/5353
+UXterm*color9:  rgb:efef/2929/2929
+UXterm*color10: rgb:8a8a/e2e2/3434
+UXterm*color11: rgb:fcfc/e9e9/4f4f
+UXterm*color12: rgb:7272/9f9f/cfcf
+UXterm*color13: rgb:adad/7f7f/a8a8
+UXterm*color14: rgb:3434/e2e2/e2e2
+UXterm*color15: rgb:eeee/eeee/ecec

@@ -1,0 +1,111 @@
+! Xterm
+UXTerm*font1:           -misc-fixed-*-*-*-*-6-*-*-*-*-*-iso10646-*
+UXTerm*font2:           -misc-fixed-medium-r-normal--8-80-75-75-c-50-iso10646-1
+UXTerm*font3:           -misc-fixed-medium-r-normal--14-130-75-75-c-70-iso10646-1
+UXTerm*font4:           -misc-fixed-medium-r-normal--13-120-75-75-c-80-iso10646-1
+UXTerm*font5:           -misc-fixed-medium-r-normal--18-120-100-100-c-90-iso10646-1
+UXTerm*font6:           -misc-fixed-medium-r-normal--20-200-75-75-c-100-iso10646-1
+UXTerm*utf8Fonts.font:          -misc-fixed-medium-r-normal--18-120-100-100-c-90-iso10646-1
+UXTerm*utf8Fonts.wideFont:      -misc-fixed-medium-r-normal-ko-18-120-100-100-c-180-iso10646-1
+xterm*visualBell:false
+xterm*sessionMgt:false
+XTerm*font:       -misc-fixed-medium-r-normal-*-*-140-*-*-c-*-iso8859-15
+XTerm*font2:    -misc-fixed-medium-r-normal-*-*-70-*-*-c-*-iso8859-15
+XTerm*font3:      -misc-fixed-medium-r-normal-*-*-100-*-*-c-*-iso8859-15
+XTerm*font4:      -misc-fixed-medium-r-normal-*-*-120-*-*-c-*-iso8859-15
+XTerm*font5:      -misc-fixed-medium-r-normal-*-*-140-*-*-c-*-iso8859-15
+
+XTerm*.background: black
+XTerm*.foreground: lightgrey
+XTerm*utf8: 1
+
+! XTerm*utf8: 0
+! start via xterm -class UXTerm or 'uxterm'
+
+! UXrvt
+urxvt.scrollBar:false
+urxvt.visualBell:true
+urxvt.sessionMgt:false
+urxvt.urlLauncher:chrome
+
+! Use a decent font
+xterm*faceName:DejaVu Sans Mono
+xterm*faceSize:11
+urxvt.font:xft:DejaVu Sans Mono:pixelsize=14
+
+! xterm
+xterm*foreground:#F8F8F8
+xterm*background:#000000
+
+! Black
+xterm*color0:#0F2130
+xterm*color8:#B0B3B9
+! Red
+xterm*color1:#D22613
+xterm*color9:#F96795
+! Green
+xterm*color2:#7CDE53
+xterm*color10:#A0F2A0
+! Yellow
+xterm*color3:#EBE645
+xterm*color11:#F4EF82
+! Blue
+xterm*color4:#2C9ADE
+xterm*color12:#A3FEFE
+! Magenta (== orange now)
+xterm*color5:#FFA705
+xterm*color13:#F1B356
+! Cyan
+xterm*color6:#8A95A7
+xterm*color14:#B0C3DA
+! White
+xterm*color7:#F8F8F8
+xterm*color15:#FFFFFF
+
+! urxvt (TODO: is there a way to target both urxvt *and* xterm?)
+urxvt*foreground:#F8F8F8
+urxvt*background:#10374A
+
+! Black
+urxvt*color0:#0F2130
+urxvt*color8:#B0B3B9
+! Red
+urxvt*color1:#D22613
+urxvt*color9:#F93D83
+! Green
+urxvt*color2:#7CDE53
+urxvt*color10:#A0F2A0
+! Yellow
+urxvt*color3:#EBE645
+urxvt*color11:#F4EF82
+! Blue
+urxvt*color4:#2C9ADE
+urxvt*color12:#A3FEFE
+! Magenta (== orange now)
+urxvt*color5:#FFA705
+urxvt*color13:#F1B356
+! Cyan
+urxvt*color6:#8A95A7
+urxvt*color14:#B0C3DA
+! White
+urxvt*color7:#F8F8F8
+urxvt*color15:#FFFFFF
+
+! Tango Color Theme URxvt
+URxvt*color0:  rgb:2e2e/3434/3636
+URxvt*color1:  rgb:cccc/0000/0000
+URxvt*color2:  rgb:4e4e/9a9a/0606
+URxvt*color3:  rgb:c4c4/a0a0/0000
+URxvt*color4:  rgb:3434/6565/a4a4
+URxvt*color5:  rgb:7575/5050/7b7b
+URxvt*color6:  rgb:0606/9820/9a9a
+URxvt*color7:  rgb:d3d3/d7d7/cfcf
+URxvt*color8:  rgb:5555/5757/5353
+URxvt*color9:  rgb:efef/2929/2929
+URxvt*color10: rgb:8a8a/e2e2/3434
+URxvt*color11: rgb:fcfc/e9e9/4f4f
+URxvt*color12: rgb:7272/9f9f/cfcf
+URxvt*color13: rgb:adad/7f7f/a8a8
+URxvt*color14: rgb:3434/e2e2/e2e2
+URxvt*color15: rgb:eeee/eeee/ecec
+

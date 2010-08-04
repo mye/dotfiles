@@ -1,0 +1,16 @@
+xrdb -load ~/.Xresources
+xmodmap ~/.Xmodmap
+
+#xrandr --output DVI-I-1 --rotate left
+#xrandr --output DVI-I-0 --right-of DVI-I-1
+
+xsetroot -solid black
+xset m 3/2 10
+while true
+do
+  xsetroot -name "$(date +'%R %b %d')"
+  sleep 3
+done &
+#trayer --edge top ---distancefrom right --distance 200 --widthtype request --expand true --height 12 --align right --alpha 255 &
+exec dwm
+
