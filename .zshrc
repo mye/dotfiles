@@ -1,6 +1,8 @@
 # Copied from sources around the internet including:
 # http://github.com/godlygeek/zsh-files/blob/master/.zshrc
 # http://git.grml.org/?p=grml-etc-core.git;a=blob_plain;f=etc/zsh/zshrc;hb=HEAD
+~/scripts/keychain ~/.ssh/id_rsa ~/.ssh/id_dsa
+source ~/.keychain/snow-sh > /dev/null
 PATH="$HOME/scripts:/usr/local/bin:/usr/bin:/bin"
 JAVA="$W/CommonFiles/Java/bin"
 SYSIN="$W/SysinternalsSuite"
