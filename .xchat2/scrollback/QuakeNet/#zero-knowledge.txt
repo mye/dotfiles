@@ -1,0 +1,671 @@
+T 1276227202 22*	mye| already in use. Retrying with mye|...
+T 1276227202 22*	mye| already in use. Retrying with mye||...
+T 1276227210 22*	mye|| sets mode +i mye||
+T 1276227210 19*	19Now talking on #zero-knowledge
+T 1276227211 22*	26blubotter gives voice to26 mye||
+T 1276227305 23*	23mye| has quit (23Read error: Operation timed out23)
+T 1276229184 18<20Gibheer>	huhu mye
+T 1276231960 22*	M1k3y is now known as M1k3y|BNC
+T 1276231975 22*	M1k3y|BNC is now known as M1k3y
+T 1276234750 19*	19stormwind (~stormwind@p5098c24b.dip0.t-ipconnect.de) has joined #zero-knowledge
+T 1276234751 22*	26blubotter gives voice to26 stormwind
+T 1276234807 18<24Dog>	bllb
+T 1276234821 18<19stormwind>	huhu
+T 1276234830 18<19stormwind>	schafi ist noch unterwegs
+T 1276234844 18<19stormwind>	was ist mit den sachen, die du mitgebracht haben wolltest?
+T 1276234861 18<19stormwind>	das schaf hat gemeint, du hättest dich nicht gemeldet?
+T 1276235276 18<24Dog>	ja, hatte gestern zu nixmehr zeit x.x
+T 1276235292 18<19stormwind>	wegen raid?
+T 1276235304 18<24Dog>	wenn er da ist, frag ich ihn. bzw falls ich nich da bin, die tasche liegt aufm sessel in meinem zimmer ^^
+T 1276235313 18<19stormwind>	okay
+T 1276235335 18<19stormwind>	die tastatur von steff liegt ja immer noch da
+T 1276235569 18<24Dog>	xD
+T 1276235764 18<19stormwind>	mist, ich glaube wir haben gar keine cds für unterwegs eingepackt
+T 1276236266 18<24Dog>	o.o
+T 1276236757 18<20Gibheer>	moep
+T 1276237922 18<24Dog>	haigib,kannsumeinetascheholen?diestehtinmeinemzimmeraufmsesselandertür.danke! xD
+T 1276237978 18<20Gibheer>	was?
+T 1276238000 18<20Gibheer>	aufms esse landert ur?
+T 1276238019 18<20Gibheer>	und warum hast du die nicht einfach mitgenommen? o.O
+T 1276238021 22*	poedelBNC is now known as poedel
+T 1276238060 18<24poedel>	moin
+T 1276238287 18<24Dog>	weil tasche in schule doof
+T 1276238316 18<24Dog>	ansonsten ruf ich mutti an, die bringt die dann zu dir xD
+T 1276238329 18<20Gibheer>	ne, ich fahr vorbei
+T 1276238444 18<24Dog>	oki, danke :)
+T 1276238570 18<24Dog>	immer wenn ich aufn blog gugg, les ich da "wolfest" xD
+T 1276238609 18<20Gibheer>	wohlfest?
+T 1276238613 18<20Gibheer>	das fest zum wohlfuehlen
+T 1276238665 18<20Gibheer>	What bothers me is the Sun
+T 1276238665 18<20Gibheer>	Studio compiler specifics. One needs very specific patch levels in order
+T 1276238665 18<20Gibheer>	for the build to work. Also you must face east under a full moon with a
+T 1276238666 18<20Gibheer>	black cat sleeping nearby on a warm running SparcStation 20.
+T 1276238668 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276238691 18<20Gibheer>	aus einer mail von der osol-mailinglist ueber das kompilieren eines neuen releases ^^
+T 1276238775 18<24Dog>	ne, wolf-est
+T 1276239749 18<19stormwind>	wollen wir dann lucas die gummibärchen mitbringen, die ich eingepackt hab, oder willst du noch welche holen?
+T 1276239792 18<20Gibheer>	da ich die tasche von dog holen muss, schaff ich es nicht mehr noch gummibaerchen zu holen
+T 1276239799 18<20Gibheer>	irgendwann will ich ja auch was essen
+T 1276240681 18<19stormwind>	nein ist in ordnung, ich wollte nur noch einmal nachfragen
+T 1276240689 18<19stormwind>	dann darf die unterwegs eben keiner mampfen ^^
+T 1276241081 18<20Gibheer>	^^
+T 1276241093 18<20Gibheer>	du kannst ja in der mittagspause schon mal muffins holen ;)
+T 1276241375 18<20Gibheer>	hui, kuehl *froi*
+T 1276241497 18<19stormwind>	hmm
+T 1276241510 18<19stormwind>	das ist so weit bis zum nächsten görtz
+T 1276241522 18<19stormwind>	aber ich kann brezeln und sowas holen
+T 1276241604 18<20Gibheer>	oder wir fahren nachher beim goertz ran
+T 1276242031 18<19stormwind>	können wir auch machen
+T 1276242055 18<19stormwind>	steff ist nu total angepisst, weil das lager net aufgeräumt ist 0.o
+T 1276242065 18<19stormwind>	aber ich hab dir einen außentermin erspart ^^
+T 1276242150 18<19stormwind>	außerdem war ich frech
+T 1276242151 18<24Dog>	aha?
+T 1276242184 18<19stormwind>	ja er meinte er reißt dir den kopf ab, wenn das bis nächsten freitag net aufgeräumt ist oder sowas 0.o
+T 1276242217 18<19stormwind>	steff ist gerade nach mannheim gefahren um einen tv-stick zu installieren, weil der hausmeister fussball schauen will
+T 1276242238 18<24Dog>	joa, der hat gestern um 16:40 schon angerufen ^^
+T 1276242242 18<19stormwind>	ich hab von ihm einen fehler bekommen
+T 1276242255 18<19stormwind>	und hab nachgeschaut, und es ging bei mir
+T 1276242266 18<19stormwind>	hab ich zurück geschrieben "fehler nicht nachvollziehbar"
+T 1276242272 18<19stormwind>	schreibt er "und nun"
+T 1276242274 18<19stormwind>	ganz toll
+T 1276242278 18<24Dog>	aber wenn mir ein mr. ralf auf meine beschwerde wegen der lagerzustellerei nur ein "tja, pech gehabt" an den kopf wirft, hab ich da au keine lust mehr
+T 1276242302 18<19stormwind>	schreib ich zurück, dass wir dem ne schnellere dsl-leitung verkaufen sollen ^^
+T 1276242312 18<24Dog>	xD
+T 1276242359 18<19stormwind>	wir machen das ganz einfach, wenn du da bist, packen wir alles, was nicht ins lager gehört kommentarlos in die garage
+T 1276242373 18<19stormwind>	und schon ist es aufgeräumt
+T 1276242375 18<24Dog>	:D
+T 1276242431 18<19stormwind>	du darfst dich nur net für blöd verkaufen lassen. schön zurückschieben ;)
+T 1276242495 18<24Dog>	ich hab nur aktuell recht wenig lust auf unnütze diskusionen
+T 1276242601 18<20Gibheer>	O.o
+T 1276243131 18<20Gibheer>	*rumfuchtel*
+T 1276243149 18<24Dog>	*refuchtel*
+T 1276243253 18<20Gibheer>	irgendwas stimmt nicht *gruebel*
+T 1276244048 18<19stormwind>	ich hab im übrigen zuhause angerufen und gesagt, dass wir am sonntag gerne mittmampfen würden ^^
+T 1276244065 18<20Gibheer>	play
+T 1276244067 18<20Gibheer>	okay
+T 1276244069 18<20Gibheer>	so rum ^^
+T 1276244084 18<24Dog>	jaaa, zoggän
+T 1276245536 18*	19stormwind schneidet komische grimassen um die massen zu erheitern
+T 1276246488 18*	20Gibheer wirft storm zur belustigung eine glibbermasse vor die fuesse
+T 1276246683 18*	19stormwind rutscht auf der glibbermasse aus und fällt hin
+T 1276246686 18<19stormwind>	*schnüff*
+T 1276246886 18<20Gibheer>	ooooh *keksgeb*
+T 1276246894 18*	20Gibheer wirft die glibbermasse dog an den Kopf
+T 1276246909 18*	19stormwind rubbelt sich ganz dolle die knie
+T 1276247022 18<20Gibheer>	*pust*
+T 1276247026 18<20Gibheer>	*pflasterdraufkleb*
+T 1276247028 18<20Gibheer>	besser?
+T 1276247160 18*	19stormwind glubscht aufs pflaster
+T 1276247164 18<19stormwind>	löbe?
+T 1276247243 18<20Gibheer>	ja, da ist ein loewe drauf
+T 1276247254 18<19stormwind>	gut
+T 1276247263 18*	19stormwind hockt sich auf das sofa
+T 1276248546 18<24poedel>	ufebrul
+T 1276248547 18<28blubotter>	wer hat dir das gesagt? bestimmt Q
+T 1276248558 18<24poedel>	Gibheer: das binary tbar könnte welchem ebuild angehören? Idee?
+T 1276248604 18<20Gibheer>	hast schon equery gefragt?
+T 1276248629 18<20Gibheer>	equery b `which tbar`
+T 1276248958 18<24Dog>	uh, ne tee-bar :D
+T 1276249067 18<20Gibheer>	wie findet man ueber 500km auf einem prod system heraus, ob etwas eine kernel panic verursacht oder nicht *gruebel*
+T 1276249158 18<24Dog>	hm
+T 1276249205 18<24poedel>	Gibheer: das gayt nur bei installorten ebuilds ;)
+T 1276249230 18<20Gibheer>	na wenn du das nicht installiert hast, dann findet man auch nicht raus, wozu das gehoehrt :D
+T 1276249271 18<19stormwind>	kvm switch
+T 1276249430 18<24poedel>	http://siyb.mount.at/tbar/
+T 1276249435 18<24poedel>	doch, ich finde alles ;p
+T 1276249766 18<19stormwind>	das ist ein tcl-script wozu brauchst du da ein ebuild?
+T 1276250446 18<24poedel>	das wußte ich doch vorher nicht
+T 1276250455 18<24poedel>	jemand nutzt es in seienr i3 config
+T 1276250462 18<24poedel>	da ich die bin nicht habe ging ich auf die suche
+T 1276250468 18<24poedel>	aber er macht denn0ch ein ebuild
+T 1276250473 18<24poedel>	warum auch immer
+T 1276250488 18<24poedel>	schnad, sagt blubotter 
+T 1276250490 18*	28blubotter 05b114u05bb14005r14t
+T 1276250523 18<20Gibheer>	es gibt auch ebuilds fuer ruby gems, was auch keinen sinn macht
+T 1276250546 18<19stormwind>	ja natürlich
+T 1276250570 18<19stormwind>	ich meinte nur, dass es nicht zwingend eines braucht, wenn man es sich einfach wohin packen kann
+T 1276250585 18<19stormwind>	vllt ist es sinnvoll, weil es einfacher ist immer aktuell zu bleiben
+T 1276250591 18<19stormwind>	aber nicht zwingend notwendig
+T 1276250690 18<20Gibheer>	das koennte sein, aber gerade bei rubygems isses eigentlich hoffnungslos fuer alles noch einen ebuild haben zu wollen
+T 1276250695 18<20Gibheer>	bei mehr als 10k gems ^^
+T 1276253069 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276261219 18<19stormwind>	juhu
+T 1276261222 18<19stormwind>	das schaf ist weg
+T 1276261616 18<24Dog>	yay
+T 1276261704 18<24poedel>	yippie
+T 1276262362 22*	poedel is now known as poedelBNC
+T 1276262373 23*	23stormwind has quit (23Quit: und weg bin ich...23)
+T 1276263581 22*	zAfLu is now known as GER|zAfLu
+T 1276267299 31<mye||>30	ich bin wach
+T 1276267468 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276267548 31<mye||>30	oh wm hat nagefangen
+T 1276267553 31<mye||>30	need multicast?
+T 1276281868 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276292856 22*	GER|zAfLu is now known as zAfLu`oFF
+T 1276292888 22*	zAfLu`oFF is now known as GER|zAfLu
+T 1276305873 31<mye||>30	Nein. Doch. Owwchhh.
+T 1276305953 31<mye||>30	http://www.youtube.com/watch?v=w4aLThuU008
+T 1276310668 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276313512 22*	Disconnected (Connection reset by peer).
+T 1276313522 22*	mye|| already in use. Retrying with mye|...
+T 1276313531 22*	mye| sets mode +i mye|
+T 1276313531 19*	19Now talking on #zero-knowledge
+T 1276313532 22*	26blubotter gives voice to26 mye|
+T 1276313842 23*	23mye|| has quit (23Ping timeout23)
+T 1276325068 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276326461 22*	M1k3y is now known as M1k3y|BNC
+T 1276326726 22*	M1k3y|BNC is now known as M1k3y
+T 1276504620 31<mye>30	hi
+T 1276504639 18<20Gibheer>	huhu
+T 1276505220 31<mye>30	30" monitor waer jetzt gut
+T 1276505317 18<20Gibheer>	mit 2048x1600?
+T 1276505336 31<mye>30	mit grooooss
+T 1276506150 23*	23noskro has quit (23Ping timeout23)
+T 1276507647 18<20Gibheer>	hirschgeweihe!
+T 1276508264 18<24Dog>	krötensumpf! o.o
+T 1276508465 18<20Gibheer>	uah
+T 1276508677 18<20Gibheer>	kann ein uml programm, dass fuer jede klasse und jeden parameter eine neue datei/ordner anlegt wirklich gut sein?
+T 1276509710 18<20Gibheer>	und schon wieder ein negatives erlebnis mit eclipse ...
+T 1276509754 31<mye>30	wenn ich dran denke das zu benutzen rollen sich meine zehennaegel hcoh
+T 1276511015 19*	19noskro (webchat@78.140.101.79) has joined #zero-knowledge
+T 1276511016 22*	26blubotter gives voice to26 noskro
+T 1276512264 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276512408 31<mye>30	arghh
+T 1276512412 31<mye>30	banshee suckt auch
+T 1276512438 31<mye>30	da gibt es die funktion "stop after current", dann spielt das nicht einfach weit
+T 1276512440 31<mye>30	er
+T 1276512442 31<mye>30	das mag ich
+T 1276512467 31<mye>30	aber das haben die so implementiert dass man das fur jedes lied wieder neu aktiviweren muss
+T 1276513779 18<20Gibheer>	reee
+T 1276515333 31<mye>30	*gahn*
+T 1276515350 18*	20Gibheer bastelt mit dia rum
+T 1276520607 22*	poedelBNC is now known as poedel
+T 1276521867 23*	23noskro has quit (23Quit: Page closed23)
+T 1276526150 18<20Gibheer>	*loswusel*
+T 1276526664 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276526952 19*	19Gib^bnc (~blub@Gibheer.users.quakenet.org) has joined #zero-knowledge
+T 1276526952 22*	26Q gives channel operator status to26 Gib^bnc
+T 1276526953 22*	26blubotter gives voice to26 Gib^bnc
+T 1276527246 23*	23Gibheer has quit (23*.net *.split23)
+T 1276527252 22*	Gib^bnc is now known as Gibheer
+T 1276528392 23*	23Gibheer has quit (23Killed (*.quakenet.org (nick collision from same user@host))23)
+T 1276528394 19*	19Gibheer (~blub@zero-knowledge.org) has joined #zero-knowledge
+T 1276528396 22*	26blubotter gives voice to26 Gibheer
+T 1276528541 23*	23PsYc|off has quit (23*.net *.split23)
+T 1276530309 19*	19PsYc|off (6390PsYc@x.bouncer.de) has joined #zero-knowledge
+T 1276530311 22*	26blubotter gives voice to26 PsYc|off
+T 1276531751 18<20Gibheer>	moep
+T 1276531768 21*	21Gibheer21 bwirft mye mit einem Blogeintrag
+T 1276532073 22*	poedel is now known as poedelBNC
+T 1276541064 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276543760 22*	poedelBNC is now known as poedel
+T 1276543938 23*	23stormwind has quit (23Quit: und weg bin ich...23)
+T 1276552927 22*	GER|zAfLu is now known as zAfLu`oFF
+T 1276553313 22*	poedel is now known as poedelBNC
+T 1276569863 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276573473 22*	Disconnected (Connection timed out).
+T 1276573483 22*	22Looking up irc.quakenet.org
+T 1276573483 22*	22Connecting to irc.quakenet.org (213.131.156.51) port 6667...
+T 1276573483 22*	22Connected. Now logging in...
+T 1276573483 22*	*** Looking up your hostname
+T 1276573483 22*	*** Checking Ident
+T 1276573483 22*	*** Found your hostname
+T 1276573492 22*	*** No ident response
+T 1276573492 22*	Welcome to the QuakeNet IRC Network, mye
+T 1276573492 22*	Your host is wineasy2.se.quakenet.org, running version u2.10.12.10+snircd(1.3.4a)
+T 1276573492 22*	This server was created Thu Mar 20 2008 at 17:51:05 CET
+T 1276573492 22*	wineasy2.se.quakenet.org u2.10.12.10+snircd(1.3.4a) dioswkgxRXInP biklmnopstvrDcCNuMT bklov
+T 1276573492 22*	WHOX WALLCHOPS WALLVOICES USERIP CPRIVMSG CNOTICE SILENCE=15 MODES=6 MAXCHANNELS=20 MAXBANS=45 NICKLEN=15 :are supported by this server
+T 1276573492 22*	MAXNICKLEN=15 TOPICLEN=250 AWAYLEN=160 KICKLEN=250 CHANNELLEN=200 MAXCHANNELLEN=200 CHANTYPES=#& PREFIX=(ov)@+ STATUSMSG=@+ CHANMODES=b,k,l,imnpstrDducCNMT CASEMAPPING=rfc1459 NETWORK=QuakeNet :are supported by this server
+T 1276573492 22*	There are 27 users and 70088 invisible on 43 servers
+T 1276573492 22*	71 :operator(s) online
+T 1276573492 22*	14 :unknown connection(s)
+T 1276573492 22*	67138 :channels formed
+T 1276573492 22*	I have 3301 clients and 1 servers
+T 1276573492 22*	Highest connection count: 13807 (13806 clients)
+T 1276573492 16*	- wineasy2.se.quakenet.org Message of the Day - 
+T 1276573492 16*	- 2008-1-8 22:06
+T 1276573492 16*	- ** [ wineasy.se.quakenet.org ] ****************************************
+T 1276573492 16*	- 
+T 1276573492 16*	-        Welcome to the QuakeNet IRC Network!
+T 1276573492 16*	-                  _ 
+T 1276573492 16*	-        _      __(_)___  ___  ____ ________  __
+T 1276573492 16*	-       | | /| / / / __ \/ _ \/ __ `/ ___/ / / /
+T 1276573492 16*	-       | |/ |/ / / / / /  __/ /_/ (__  ) /_/ /
+T 1276573492 16*	-       |__/|__/_/_/ /_/\___/\__,_/____/\__, /
+T 1276573492 16*	-        s e . q u a k e n e t . o r g /____/
+T 1276573492 16*	- 
+T 1276573492 16*	-  You are connected to wineasy.se.quakenet.org.
+T 1276573492 16*	-  Available ports are 6667, 6668, 6669, 6670 and 7000.
+T 1276573492 16*	- 
+T 1276573492 16*	-  This server is located at WinEasy AB, Stockholm.
+T 1276573492 16*	- 
+T 1276573492 16*	- ** [Local IRC operators ] *********************************************
+T 1276573492 16*	- 
+T 1276573492 16*	-  froo           froo@quakenet.org      (Swedish & English)
+T 1276573492 16*	-  softis       softis@quakenet.org      (Swedish & English)
+T 1276573492 16*	-  vendis       vendis@quakenet.org      (Swedish & English)
+T 1276573492 16*	-  quas           quas@quakenet.org      (Swedish & English)
+T 1276573492 16*	-  j-dog         j-dog@quakenet.org      (Swedish, English & French)
+T 1276573492 16*	-  ammis         ammis@quakenet.org      (Swedish & English)
+T 1276573492 16*	-  Paul           paul@quakenet.org      (English)
+T 1276573492 16*	-  meeb           meeb@quakenet.org      (English)
+T 1276573492 16*	-  MadHacker madhacker@quakenet.org      (English)
+T 1276573492 16*	-  Salt           salt@quakenet.org      (English)
+T 1276573492 16*	-  MikeC          mike@quakenet.org      (English)
+T 1276573492 16*	-  brks           brks@quakenet.org      (English)
+T 1276573492 16*	-  kurd           kurd@quakenet.org      (Swedish & English)
+T 1276573492 16*	-  Cruicky     cruicky@quakenet.org      (English)
+T 1276573492 16*	-  Ahnberg     ahnberg@quakenet.org      (Swedish & English)
+T 1276573492 16*	- 
+T 1276573492 16*	- ** [ Rules ] **********************************************************
+T 1276573492 16*	- 
+T 1276573492 16*	-  This network may NOT be used for:
+T 1276573492 16*	- 
+T 1276573492 16*	-  * Flooding (including flood/clonebots).
+T 1276573492 16*	-  * Distribution of copyrighted material (eg, warez, mp3, 
+T 1276573492 16*	-    movies) or pornography.
+T 1276573492 16*	-  * Channels dedicated to cheats designed to cause unfair
+T 1276573492 16*	-    advantage in multiplayer games.
+T 1276573492 16*	-  * Clones. http://www.quakenet.org/faq/faq.php?c=128
+T 1276573492 16*	-  * Attempts to takeover existing channels.
+T 1276573492 16*	-  * Attempts to disrupt network services.
+T 1276573492 16*	-  * Racism and/or Nazism.
+T 1276573492 16*	-  * Spamming and/or advertising.
+T 1276573492 16*	-  * Hacking (including Virus/Trojan distribution).
+T 1276573492 16*	-  * Actions we, the operators, regard as abuse.
+T 1276573492 16*	- 
+T 1276573492 16*	-  For more details of the network's terms of service
+T 1276573492 16*	-  please visit http://www.quakenet.org/rules/
+T 1276573492 16*	- 
+T 1276573492 16*	-  Continued use of this server indicates acceptance of these conditions.
+T 1276573492 16*	- 
+T 1276573492 16*	-  Violation of the network's rules will result in kills and possible
+T 1276573492 16*	-  network-wide access bans.
+T 1276573492 16*	- 
+T 1276573492 16*	- ** [ Information & Help ] *********************************************
+T 1276573492 16*	- 
+T 1276573492 16*	-  Many common problems are explained on the website http://www.quakenet.org/faq/
+T 1276573492 16*	- 
+T 1276573492 16*	-  If you have a general enquiry not answered by this website,
+T 1276573492 16*	-  please visit #help and/or http://help.quakenet.org/
+T 1276573492 16*	- 
+T 1276573492 16*	-  If you *require* an IRC operator please visit #feds. If you
+T 1276573492 16*	-  have trouble getting connected we can be contacted via 
+T 1276573492 16*	-  email at info@quakenet.org.
+T 1276573492 16*	- 
+T 1276573492 16*	- ** [ Disclaimer ] *****************************************************
+T 1276573492 16*	- 
+T 1276573492 16*	-  The use of this server & network is a privilege, not a right.
+T 1276573492 16*	- 
+T 1276573492 16*	-  IRC is a free media, therefore no person or entity involved with
+T 1276573492 16*	-  QuakeNet takes any responsibility whatsoever for the opinions
+T 1276573492 16*	-  expressed or the actions taken by users. Absolutely no warranty is
+T 1276573492 16*	-  either expressed or implied.
+T 1276573492 16*	- 
+T 1276573492 16*	-  QuakeNet runs an open proxy scanner to prevent abuse, if you see
+T 1276573492 16*	-  connections on various ports from 'proxyscan.quakenet.org'
+T 1276573492 16*	-  please ignore them, as they are the scanner in action.
+T 1276573492 16*	- 
+T 1276573492 16*	-  For more information visit: http://www.quakenet.org/openproxies.html
+T 1276573492 16*	- 
+T 1276573492 16*	-  Connections to QuakeNet servers may be monitored for security,
+T 1276573492 16*	-  statistical and performance purposes, and in order to detect and
+T 1276573492 16*	-  prevent abuse.
+T 1276573492 16*	- 
+T 1276573492 16*	-  By connecting to this server, you agree to abide by the rules and
+T 1276573492 16*	-  policies stated here and at http://www.quakenet.org/aup/, you also
+T 1276573492 16*	-  agree not to hold liable, or bring any legal action against QuakeNet,
+T 1276573492 16*	-  it's sponsors and staff. If you do not agree to any of this, then
+T 1276573492 16*	-  please disconnect now.
+T 1276573492 16*	- 
+T 1276573492 16*	-  We encourage our users to not to give out personal identifying
+T 1276573492 16*	-  information or passwords to anyone. QuakeNet staff will NEVER
+T 1276573492 16*	-  ask you for your password.
+T 1276573492 16*	- 
+T 1276573492 16*	-  We hope you enjoy chatting on QuakeNet, have a nice stay!
+T 1276573492 16*	- 
+T 1276573492 16*	End of /MOTD command.
+T 1276573492 22*	on 1 ca 1(4) ft 20(20)
+T 1276573492 22*	+i
+T 1276573492 22*	mye sets mode +i mye
+T 1276573492 19*	19Now talking on #zero-knowledge
+T 1276573493 22*	26blubotter gives voice to26 mye
+T 1276577942 22*	M1k3y is now known as M1k3y|BNC
+T 1276578366 18<20Gibheer>	ARGH!
+T 1276578367 22*	M1k3y|BNC is now known as M1k3y
+T 1276578837 18<20Gibheer>	Dog: hast du da?
+T 1276580433 18<24Dog>	hm?
+T 1276580448 18<20Gibheer>	faehrtickets bestellt?
+T 1276580462 18<20Gibheer>	wenn nicht, jetzt schnell machen?
+T 1276580473 18<24Dog>	ich weiss ja nichmal wo ^^
+T 1276580522 18<20Gibheer>	http://www.scandlines.de/de/passage/buchung/buchung-2.htm
+T 1276580583 18<24Dog>	von wo nach wo? 1 auto 3 personen? und das datum? *g*
+T 1276580616 18<20Gibheer>	rueckzu von trelleborg nach sassnitz
+T 1276580643 18<20Gibheer>	hmm, rostock ist schon ausgebucht *gruebel*
+T 1276580663 18<24Dog>	also ne 2x einfache fahrt?
+T 1276580679 18<20Gibheer>	einmal hin und einmal zurueck
+T 1276580700 18<20Gibheer>	ich muss nur mal schauen, unsere abfahrten scheinen naemlich schon ausgebucht zu sein
+T 1276580786 18<20Gibheer>	du kannst auch ruhig hin und rueckfahrt zusammen buchen
+T 1276580803 18<20Gibheer>	hin am 10.07. und zurueck am 22.07.
+T 1276580839 18<20Gibheer>	und fuer hin buchst du die 12:45 und zurueck die 07:45
+T 1276580867 18<20Gibheer>	hinzu fahren wir dann einfach trotzdem so frueh los, in der hoffnung, dass sie ins trotzdem drauf lassen *g*
+T 1276581035 18<24Dog>	und trelleborg/sassniz?
+T 1276581050 18<20Gibheer>	hm?
+T 1276581062 18<24Dog>	die route ^^
+T 1276581065 18<20Gibheer>	hab ich doch geschrieben o.O
+T 1276581069 18<20Gibheer>	ach so, ja
+T 1276581094 18<20Gibheer>	da muessen wir nicht so lange warten, wenn wir nicht auf die faehre kommen
+T 1276581281 18<20Gibheer>	und keine kabine und nix ^^
+T 1276581371 18<24Dog>	k ^^
+T 1276581456 18<24Dog>	hm, da kann ich doch n tagesticket nehmen, oder?
+T 1276581500 18<24Dog>	ah ne ^^
+T 1276581687 18<20Gibheer>	tagesticket?
+T 1276581910 18<24Dog>	falsch geguggt ^^
+T 1276581919 18<24Dog>	is bestellt, pdf zum drucken hab ich
+T 1276582070 18<20Gibheer>	okay
+T 1276582074 18<20Gibheer>	*keksgeb*
+T 1276582168 18<24Dog>	und schwubb unterwegs ~.~
+T 1276582230 18<20Gibheer>	hf
+T 1276582652 22*	poedelBNC is now known as poedel
+T 1276583281 22*	You have been marked as being away
+T 1276583282 22*	You are no longer marked as being away
+T 1276584263 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276585403 21<Gibheer>21	mye: sei froh das du debian hast
+T 1276585596 19*	19noskro (webchat@78.140.101.79) has joined #zero-knowledge
+T 1276585597 22*	26blubotter gives voice to26 noskro
+T 1276585601 18<20Gibheer>	moin
+T 1276585990 18<22noskro>	morgen
+T 1276586271 31<mye>30	so, wiso?
+T 1276586310 18<20Gibheer>	ich darf mich gerade mit oracle enterprise rumschlagen und da geht ueberhaupt nix o.O
+T 1276586317 31<mye>30	ich kann ja nichtmal umlaute tippen
+T 1276586319 18<20Gibheer>	es schmiert bei jedem programm einfach ab
+T 1276586327 31<mye>30	oracle linux?
+T 1276586334 18<20Gibheer>	jop
+T 1276586349 31<mye>30	warum???!!!
+T 1276586391 31<mye>30	achso, wegen enterprise 
+T 1276586440 18<20Gibheer>	ich will mir mal eine vm mit der db bauen
+T 1276586455 18<20Gibheer>	aber schon sehr faszinierend, wie sehr ein linux nicht laufen kann
+T 1276589347 31<mye>30	Bananas are radioactive enough to regularly cause false alarms on radiation sensors used to detect possible illegal smuggling  of nuclear material at US ports.
+T 1276589423 31<mye>30	Zum gluck sind bananen keine gamma strahler
+T 1276589583 19*	19Stormwind (~Storm@tmo-100-146.customers.d1-online.com) has joined #zero-knowledge
+T 1276589584 22*	26blubotter gives voice to26 Stormwind
+T 1276589598 18<25Stormwind>	Huhu
+T 1276589604 31<mye>30	hi
+T 1276589875 18<20Gibheer>	aber bananen leuchten doch garnicht im dunkeln
+T 1276589981 31<mye>30	uran auch nicht
+T 1276590539 18<20Gibheer>	doch, das leuchtt
+T 1276590561 18<20Gibheer>	zumindest bei den simpsons ^^
+T 1276596474 31<mye>30	http://www.youtube.com/watch?v=8RFq7cOVDF0
+T 1276596486 31<mye>30	endlich
+T 1276596502 31<mye>30	das ist dieses scheiss lied das ich jahrelang gesucht hab
+T 1276597892 22*	poedel is now known as poedelBNC
+T 1276598229 18<20Gibheer>	klingt ein bissel wie star wars
+T 1276598664 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276599302 31<mye>30	nicht bei 1:40 ^^
+T 1276599308 18<20Gibheer>	^^
+T 1276599644 22*	zAfLu`oFF is now known as GER|zAfLu
+T 1276599653 18<20Gibheer>	moin zaflu
+T 1276600519 31<mye>30	mist schon wieder mude
+T 1276600683 31<mye>30	lustigerweise kann man in racket auch bilder in den quelltext einfugen
+T 1276600702 31<mye>30	und die dann direkt animieren
+T 1276600749 18<20Gibheer>	okay o.O
+T 1276600838 31<mye>30	die erklaren damit ganz gut das programme nicht mit bytes rechnen sollen, sonder mit daten
+T 1276601316 18<20Gibheer>	auch nicht schlecht
+T 1276601353 18<20Gibheer>	genauso gut wie man leuten in ruby beibringt nicht all zu viel monkey patching zu betreiben ^^
+T 1276601897 31<mye>30	was bedeutet es wenn eine ampel rot blinkt?
+T 1276601931 18<20Gibheer>	o.O
+T 1276601944 18<20Gibheer>	duerfte es eigentlich nicht geben
+T 1276601945 31<mye>30	gelb kennt man ja
+T 1276601954 31<mye>30	vllt only in america
+T 1276601956 18<20Gibheer>	bei uns schalten die einfach richtig auf rot
+T 1276601979 18<20Gibheer>	also wenn sie von gelb blinkend auf den normal betrieb umschalten
+T 1276602492 31<mye>30	In den USA und Kanada, wo üblicherweise keine zusätzlichen Verkehrszeichen zur Vorfahrtsregelung bei Ampelausfall wie in Europa vorhanden sind, wird in der Nebenrichtung rotes Blinklicht angezeigt, was „Stop“ bedeutet. In der Hauptrichtung wird gelbes Blinklicht („Achtung“) verwendet.
+T 1276602563 18<20Gibheer>	aha o.O
+T 1276602761 31<mye>30	Die erste Lichtsignalanlage der Welt wurde am 10. Dezember 1868[7] in London vor dem House of Parliament aufgestellt. Sie wurde mit Gaslicht betrieben und explodierte bereits nach kurzer Zeit.
+T 1276602762 31<mye>30	LOL
+T 1276602956 18<20Gibheer>	uh, schick xD
+T 1276603861 22*	poedelBNC is now known as poedel
+T 1276604419 23*	23noskro has quit (23Quit: Page closed23)
+T 1276609008 18<20Gibheer>	ree
+T 1276609021 18<24Dog>	wb
+T 1276609032 18<20Gibheer>	dankoe
+T 1276609735 23*	23PsYc|off has quit (23*.net *.split23)
+T 1276610114 19*	19PsYc|off (6390PsYc@x.bouncer.de) has joined #zero-knowledge
+T 1276610114 22*	26*.quakenet.org gives voice to26 PsYc|off
+T 1276611098 23*	23Stormwind has quit (23Quit: used jmIrc23)
+T 1276613064 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276615254 19*	19stormwind (~stormwind@95-88-247-108-dynip.superkabel.de) has joined #zero-knowledge
+T 1276615255 22*	26blubotter gives voice to26 stormwind
+T 1276615383 18<20Gibheer>	moep
+T 1276615390 18*	20Gibheer bewirft dog mit einem Teil schwedens
+T 1276619051 23*	23Q has quit (23*.net *.split23)
+T 1276619076 19*	19Q (TheQBot@CServe.quakenet.org) has joined #zero-knowledge
+T 1276619076 22*	26*.quakenet.org gives channel operator status to26 Q
+T 1276619076 22*	26*.quakenet.org gives voice to26 Q
+T 1276620140 22*	poedel is now known as poedelBNC
+T 1276620532 18<20Gibheer>	Dog: glob?
+T 1276624088 18<24Dog>	gehlobb
+T 1276626902 18<20Gibheer>	hab mit storm gerade zusammen gespielt und es war sehr lustig ^^
+T 1276627146 18<24Dog>	xD
+T 1276627463 18<28blubotter>	neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276627822 18<19stormwind>	dog guggstu query?
+T 1276627957 18<24Dog>	is scho weitergegeben
+T 1276627976 18<19stormwind>	danke
+T 1276629908 23*	23stormwind has quit (23Quit: und weg bin ich...23)
+T 1276630301 22*	poedelBNC is now known as poedel
+T 1276634622 OTR: No conversations to finish.
+T 1276634622 OTR: Error saving fingerprints: No such file or directory (User defined source 1)
+T 1276634622 Perl interface unloaded
+T 1276634622 Python interface unloaded
+T 1276634622 Tcl interface unloaded
+T 1276795480 18<20Gibheer> knapp daneben ^^
+T 1276795490 31<mye>30 pictogramme sind eine untermenge
+T 1276795501 18<20Gibheer> aha
+T 1276795524 18* mye bootet mal windows
+T 1276795528 31<mye>30 bb
+T 1276851230 31<mye>30 und dann mit einem skript die config updaten
+T 1276851252 31<mye>30 und es kann jetzt auch die platten nach installierten betriebsystemen durchsuchen
+T 1276851257 31<mye>30 funktioniert natuerlich nicht
+T 1276851267 18<22gibheer_> o.O
+T 1276851291 18<22gibheer_> das erklaert, warum grml kein grub mehr hat -.-
+T 1276851383 31<mye>30 hab dann nachdem es nicht windows boot wollte weil die syntax der config eintraege wieder anders ist, gemerkt das ich ja einfach f8 druecken kann und dann die platte auswaehlen zum booten
+T 1276851391 31<mye>30 wer braucht da einen bootmanager?
+T 1276851392 18<22gibheer_> und in root komm ich auch nicht rein, weil das ein lvm ist
+T 1276852971 31<mye>30 ist das wikipedia favicon auch schwarz bei euch?
+T 1276853004 18<22gibheer_> noe
+T 1276853010 18<22gibheer_> also zumindest in der englischen
+T 1276853030 31<mye>30 lustig bei mir ist das auf einmal schwarz mit weissen w
+T 1276853063 18<22gibheer_> so, bin erstmal wieder weg
+T 1276853065 23* 23gibheer_ has quit (23Quit: leaving23)
+T 1276854294 22* zAfLu`oFF is now known as GER|zAfLu
+T 1276855558 22* PsYc|off is now known as LvLUP|PsYcOuT
+T 1276856880 18<20Gibheer> noskro: runde laufen?
+T 1276856902 18* 19stormwind läuft komisch im kreis
+T 1276856985 18<28LvLUP|PsYcOuT> ^^
+T 1276856990 18<28LvLUP|PsYcOuT> ihr macht komische sachenp
+T 1276857605 22* poedel is now known as poedelBNC
+T 1276857922 18<28blubotter> neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276858863 18<20Gibheer> es gibt einen neuen nichtlustig ^^
+T 1276858979 18<19stormwind> ^^
+T 1276859140 18* 20Gibheer bewirft dog mit Eiersalat
+T 1276859165 18<24Dog> ih
+T 1276859174 18<20Gibheer> ja, wie kann ich nur!
+T 1276859179 18<24Dog> wie isn das heute eigentlich? ^^
+T 1276859208 18<20Gibheer> ein bissel bewoelkt, aber meistens sonnig und bis zu 25 grad
+T 1276859233 18<24Dog> hm
+T 1276859239 18<24Dog> und fahrtechnischerweise?
+T 1276859281 18<20Gibheer> im moment ist die verkehrslage durch das gleich anfangende spiel sehr entspannt, die strassen sind zumeist frei
+T 1276859332 18<20Gibheer> reichen die infos? ^^
+T 1276859341 18<24Dog> ne xD
+T 1276859351 18<20Gibheer> was brauchst du denn noch?
+T 1276859354 18<24Dog> holt ihr mich hier ab oder soll ich mitm zug fahrn? xD
+T 1276859367 18<20Gibheer> storm ist schon in schwegenheim und ich in speyer
+T 1276859383 18<20Gibheer> wenn du es also bis nach speyer schaffst, bevor ich los fahre, dann kann ich dich mitnehmen
+T 1276859388 18<19stormwind> was soll ich denn in speyer?
+T 1276859411 18<20Gibheer> du wollst nix in speyer machen, da bist du ja garnicht
+T 1276859416 18<19stormwind> ok
+T 1276860332 18<20Gibheer> interessant wie sie alle im konferenzraum sitzen und fussball schauen xD
+T 1276860359 18<20Gibheer> mit fahne und trikot und was weiss ich
+T 1276860375 18<28LvLUP|PsYcOuT> ^^
+T 1276860572 18<24Dog> xD
+T 1276860616 18<28LvLUP|PsYcOuT> ich würd mir so einen ab lachen wenn se auffe schnautze bekommen
+T 1276861807 22* poedelBNC is now known as poedel
+T 1276862570 18<19stormwind> fussball ist wirklich schrecklich bin ich froh, dass ich wieder da bin
+T 1276862595 18<19stormwind> der torwart der serben hat ein blaues trikot an und rosa!!! schuhe
+T 1276862600 18<19stormwind> geht ja mal gar nicht
+T 1276862712 18<20Gibheer> o.O
+T 1276862833 18<28LvLUP|PsYcOuT> lol
+T 1276862855 18<28LvLUP|PsYcOuT> nein also diese fussball spieler ham ma garkein sinn für mode ;D
+T 1276862858 18<24Dog> xD
+T 1276862884 18<28LvLUP|PsYcOuT> uhh
+T 1276862890 18<28LvLUP|PsYcOuT> nu gibts krach in germany
+T 1276862894 22* GER|zAfLu is now known as zAfLu`oFF
+T 1276862898 18<28LvLUP|PsYcOuT> 1:0 serbien ;D
+T 1276862906 18<28LvLUP|PsYcOuT> un da gehn se off !
+T 1276862909 18<28LvLUP|PsYcOuT> XD
+T 1276862938 18<20Gibheer> Dog: wann kasnnst du in speyer sein?
+T 1276863192 18<24Dog> das kommt drauf an wann cheffe mich gehen lässt
+T 1276863359 18<20Gibheer> omg, die drehen durch o.O
+T 1276863365 18<24Dog> hu?
+T 1276863385 18<20Gibheer> anscheind haben sie ein tor geschossen
+T 1276863401 18<28LvLUP|PsYcOuT> lol
+T 1276863406 18<28LvLUP|PsYcOuT> ne
+T 1276863410 18<28LvLUP|PsYcOuT> is halbzeit
+T 1276863428 18<28LvLUP|PsYcOuT> 1:0 immer noch für serbien un nur 10 mann aufm feld für germania
+T 1276863453 18<28LvLUP|PsYcOuT> nu kannste mitreden falls se meckernd durch die gänge schlendern
+T 1276863458 18<20Gibheer> hihi
+T 1276863490 18<24Dog> go serbien!
+T 1276863493 18<28LvLUP|PsYcOuT> XD
+T 1276863500 18<28LvLUP|PsYcOuT> seh ich auch so dog
+T 1276863531 18<28LvLUP|PsYcOuT> naja ganz sauber spieln se eh nich
+T 1276863537 18<28LvLUP|PsYcOuT> faulen rum wie sau
+T 1276863543 18<28LvLUP|PsYcOuT> also beide !
+T 1276863550 18<28LvLUP|PsYcOuT> aber deutschland en tick krasser
+T 1276863564 18<28LvLUP|PsYcOuT> darum auch ein mann weniger aufm feld
+T 1276863577 18<20Gibheer> hoffentlich der vom tor
+T 1276863581 18<28LvLUP|PsYcOuT> klose
+T 1276863584 18<28LvLUP|PsYcOuT> is raus
+T 1276863592 18<24Dog> xD
+T 1276863595 18<20Gibheer> who ever that is
+T 1276863604 18<24Dog> das is der, der aufm meatball-sub is :D
+T 1276863607 18<28LvLUP|PsYcOuT> stürmer kurz vorm gegnerichen tor
+T 1276863635 18<28LvLUP|PsYcOuT> bin ma gespannt
+T 1276863635 18<20Gibheer> Dog: ich bin am ueberlegen wegen kopfschmerzen nach schwegenheim zu fahren, deswegen
+T 1276863646 18<28LvLUP|PsYcOuT> hmm
+T 1276863656 18<28LvLUP|PsYcOuT> lol
+T 1276863659 18<28LvLUP|PsYcOuT> die kommentatoren
+T 1276863665 18<28LvLUP|PsYcOuT> wir waren klar das bessere team !
+T 1276863667 18<28LvLUP|PsYcOuT> luschen
+T 1276863727 18<24Dog> hm, ich frag mal ob ich um 3 gehn kann
+T 1276863748 18<28LvLUP|PsYcOuT> wär ja nimmer lang hin
+T 1276863778 18<20Gibheer> wann waerst du dann da?
+T 1276863860 18<24Dog> kurz vor 4
+T 1276864033 18<20Gibheer> okay
+T 1276864058 18<24Dog> hm, chef will nomma mit mir reden o.O "so 10min"... mal sehn obs hinhaut
+T 1276864075 18<20Gibheer> okoe
+T 1276864075 18<24Dog> ich mach vorsorglich shconma aus ^^ *wink*
+T 1276864087 18<20Gibheer> hf
+T 1276865132 18<20Gibheer> hmm, sie wissen gerade nicht ob sie jubeln oder heueln sollen o.O
+T 1276865169 18<28LvLUP|PsYcOuT> heulen wahrscheinlich ;D
+T 1276865177 18<28LvLUP|PsYcOuT> 11meter versemmelt ;D
+T 1276865240 18<20Gibheer> tja, passiert
+T 1276865249 18<28LvLUP|PsYcOuT> jep
+T 1276866351 18<28LvLUP|PsYcOuT> 10 mins ma schaun wies ausgeht
+T 1276866481 18<20Gibheer> 2:0 ;)
+T 1276866496 18<28LvLUP|PsYcOuT> ne glaub nich
+T 1276866503 18<28LvLUP|PsYcOuT> das wär schwein
+T 1276866526 18<28LvLUP|PsYcOuT> davon abgesehn schmeisst der schiri mit den karten umsich wie bonbons
+T 1276866545 18<20Gibheer> http://www.heise.de/newsticker/meldung/WM-Spiel-bringt-Streaming-Server-an-ihre-Grenzen-1025461.html <== xD
+T 1276866554 18<28LvLUP|PsYcOuT> lol
+T 1276866558 18<28LvLUP|PsYcOuT> nice
+T 1276866566 18<20Gibheer> zdf hat die links zum stream entfernt ^^
+T 1276866582 18<20Gibheer> die admins freuen sich bestimmt ueber den peak
+T 1276866586 18<28LvLUP|PsYcOuT> geil
+T 1276866594 18<28LvLUP|PsYcOuT> zdf gekillt
+T 1276866599 18<28LvLUP|PsYcOuT> besser als jede ddos ;D
+T 1276866617 18<20Gibheer> ne, ein slashdos ist einmalig
+T 1276866624 18<28LvLUP|PsYcOuT> XD
+T 1276866626 18<20Gibheer> oder der heisedos ^^
+T 1276866651 18<19stormwind> also ist das ein fussballdos?
+T 1276866660 18<28LvLUP|PsYcOuT> könnte man so nennen
+T 1276866665 18<28LvLUP|PsYcOuT> oder es isn schlanddos
+T 1276866665 18<20Gibheer> africados ^^
+T 1276866676 18<28LvLUP|PsYcOuT> XD
+T 1276866700 18<28LvLUP|PsYcOuT> 5 mins noch regulär
+T 1276866912 18<28LvLUP|PsYcOuT> 1 minute
+T 1276866927 18<20Gibheer> wo bleibt das zweite tor?
+T 1276866937 18<28LvLUP|PsYcOuT> chancen waren da
+T 1276866943 18<28LvLUP|PsYcOuT> nur is es nich gefallen
+T 1276866955 18<20Gibheer> ich frage nicht nach chancen, nur nach dem untergang ;)
+T 1276866967 18<28LvLUP|PsYcOuT> der is so oder so besiegelt
+T 1276866972 18<28LvLUP|PsYcOuT> nun noch die nachspielzeit
+T 1276866975 18<28LvLUP|PsYcOuT> 3 mins noch
+T 1276866977 18<28LvLUP|PsYcOuT> dann is over
+T 1276867001 18<20Gibheer> und dann muessen sie noch mal verlieren
+T 1276867003 18<28LvLUP|PsYcOuT> ich weiss gib du willst die totale vernichtung ;D
+T 1276867014 18<20Gibheer> natuerlich *g*
+T 1276867027 18<28LvLUP|PsYcOuT> 2 mins noch
+T 1276867104 18<28LvLUP|PsYcOuT> 1 minute
+T 1276867156 18<28LvLUP|PsYcOuT> 3 mins um
+T 1276867164 18<28LvLUP|PsYcOuT> ma schaun wielang noch was läuft
+T 1276867169 18<28LvLUP|PsYcOuT> noch is nich abgepfiffen
+T 1276867176 18<28LvLUP|PsYcOuT> aber serbe liegt auch am boden
+T 1276867177 18<28LvLUP|PsYcOuT> XD
+T 1276867178 18<20Gibheer> dabei sind genug pfeifen da
+T 1276867199 18<28LvLUP|PsYcOuT> das is wahr
+T 1276867220 18<28LvLUP|PsYcOuT> fertig
+T 1276867227 18<28LvLUP|PsYcOuT> 1:0 serbien endstand
+T 1276867236 18<28LvLUP|PsYcOuT> haha
+T 1276867237 18<20Gibheer> *fg*
+T 1276867237 18<28LvLUP|PsYcOuT> XD
+T 1276867248 18<28LvLUP|PsYcOuT> nu kannste deine kollegen auslachen ;D
+T 1276867258 18<20Gibheer> ne, die leiden so schon genug
+T 1276867277 18<28LvLUP|PsYcOuT> ach immer hinterher treten da
+T 1276867288 18<28LvLUP|PsYcOuT> damit ham se auch keine probleme wenn se gewinnen ;D
+T 1276867332 18<20Gibheer> hihi
+T 1276867400 18<28LvLUP|PsYcOuT> ham sich die leute umsonst frei genommen
+T 1276867430 18<28LvLUP|PsYcOuT> ich lach mich wech
+T 1276867444 18<28LvLUP|PsYcOuT> immer die ausrede wir waren ja die eigentlich bessere manschaft
+T 1276867447 18<28LvLUP|PsYcOuT> luschen
+T 1276867456 18<20Gibheer> hihi
+T 1276867497 18<28LvLUP|PsYcOuT> wart ab
+T 1276867509 18<28LvLUP|PsYcOuT> dauert nich lang dann heisst es das der schiri schuld is
+T 1276867510 18<28LvLUP|PsYcOuT> ;D
+T 1276867523 18<28LvLUP|PsYcOuT> oder der ball war rutschig
+T 1276867524 18<20Gibheer> hihi
+T 1276867529 18<28LvLUP|PsYcOuT> oder der wind war zu stark
+T 1276867534 18<28LvLUP|PsYcOuT> der gegner hat axelschweiss
+T 1276867538 18<28LvLUP|PsYcOuT> man wird sehn ;D
+T 1276867544 18<20Gibheer> der rasen war nass
+T 1276867550 18<28LvLUP|PsYcOuT> ka
+T 1276867558 18<28LvLUP|PsYcOuT> sah knochen trocken aus
+T 1276867567 23* 23noskro has quit (23Ping timeout23)
+T 1276867577 18<20Gibheer> nein nein, der war total nass ;)
+T 1276867589 18<28LvLUP|PsYcOuT> uhh hier fahren die ersten serben rum auf selbstmordbasis un hupen ;D
+T 1276867630 18<28LvLUP|PsYcOuT> ma schaun was im facespuck abgeht
+T 1276867717 18<28LvLUP|PsYcOuT> hm
+T 1276867747 18<28LvLUP|PsYcOuT> ich glaub ich kenn zu wenig leute die den schund schaun ;D
+T 1276867750 18<20Gibheer> ich fahr mal los
+T 1276867752 18<20Gibheer> bis spaeter
+T 1276867754 18<28LvLUP|PsYcOuT> hf
+T 1276867866 18<20Gibheer> jo
+T 1276870274 22* zAfLu`oFF is now known as GER|zAfLu
+T 1276872322 18<28blubotter> neue Stats sind hier verfuegbar: http://logs.blubotter.org/zero-knowledge.html
+T 1276873439 22* poedel is now known as poedelBNC
+T 1276873535 22* poedelBNC is now known as poedel
+T 1276878637 22* poedel is now known as poedelBNC
+T 1276881222 19* 19gibheer_ (~gibheer@p5B2138FB.dip.t-dialin.net) has joined #zero-knowledge
+T 1276881223 22* 26blubotter gives voice to26 gibheer_
+T 1276881225 18<22gibheer_> moep
+T 1276881230 31<mye>30 so
+T 1276881233 18<22gibheer_> Dog, ich bekomm keine ip per dhcp zugewiesen
+T 1276881243 21<gibheer_>21 hai mye
+T 1276881282 31<mye>30 oh man, nur am gaehnen
+T 1276881298 31<mye>30 bis morgen
+T 1276881299 18<22gibheer_> ich war am gaehnen, dann hab ich eine runde geschlafen und nu hab ich nur schwere augen ^^
+T 1276881303 OTR: No conversations to finish.
+T 1276881303 OTR: Error saving fingerprints: No such file or directory (User defined source 1)
+T 1276881303 Perl interface unloaded
+T 1276881303 Python interface unloaded
+T 1276881303 Tcl interface unloaded

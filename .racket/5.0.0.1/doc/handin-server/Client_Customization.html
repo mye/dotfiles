@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><meta http-equiv="content-type" content="text-html; charset=utf-8" /><title>4&nbsp;Client Customization</title><link rel="stylesheet" type="text/css" href="scribble.css" title="default" /><link rel="stylesheet" type="text/css" href="racket.css" title="default" /><link rel="stylesheet" type="text/css" href="scribble-style.css" title="default" /><script type="text/javascript" src="scribble-common.js"></script></head><body id="doc-racket-lang-org"><div class="tocset"><div class="tocview"><div class="tocviewlist" style="margin-bottom: 1em;"><div class="tocviewtitle"><table cellspacing="0" cellpadding="0"><tr><td style="width: 1em;"><a href="javascript:void(0);" title="Expand/Collapse" class="tocviewtoggle" onclick="TocviewToggle(this,&quot;tocview_0&quot;);">&#9660;</a></td><td></td><td><a href="index.html" class="tocviewlink" pltdoc="x"><span style="font-weight: bold">Handin Server</span></a></td></tr></table></div><div class="tocviewsublistonly" style="display: block;" id="tocview_0"><table cellspacing="0" cellpadding="0"><tr><td align="right">1&nbsp;</td><td><a href="Handin-Server_and_Client.html" class="tocviewlink" pltdoc="x">Handin-<wbr></wbr>Server and Client</a></td></tr><tr><td align="right">2&nbsp;</td><td><a href="Quick_Start_for_a_Test_Drive.html" class="tocviewlink" pltdoc="x">Quick Start for a Test Drive</a></td></tr><tr><td align="right">3&nbsp;</td><td><a href="wheres-the-collection.html" class="tocviewlink" pltdoc="x">Where is the Collection?</a></td></tr><tr><td align="right">4&nbsp;</td><td><a href="Client_Customization.html" class="tocviewselflink" pltdoc="x">Client Customization</a></td></tr><tr><td align="right">5&nbsp;</td><td><a href="server-setup.html" class="tocviewlink" pltdoc="x">Server Setup</a></td></tr><tr><td align="right">6&nbsp;</td><td><a href="Checker_Utilities.html" class="tocviewlink" pltdoc="x">Checker Utilities</a></td></tr><tr><td align="right">7&nbsp;</td><td><a href="Additional_Utilities.html" class="tocviewlink" pltdoc="x">Additional Utilities</a></td></tr><tr><td align="right"></td><td><a href="doc-index.html" class="tocviewlink" pltdoc="x">Index</a></td></tr></table></div></div></div></div><div class="maincolumn"><div class="main"><div class="navsettop"><span class="navleft"><form class="searchform"><input class="searchbox" style="color: #888;" type="text" value="...search manuals..." title="Enter a search string to search the manuals" onkeypress="return DoSearchKey(event, this, &quot;5.0.0.1&quot;, &quot;../&quot;);" onfocus="this.style.color=&quot;black&quot;; this.style.textAlign=&quot;left&quot;; if (this.value == &quot;...search manuals...&quot;) this.value=&quot;&quot;;" onblur="if (this.value.match(/^ *$/)) { this.style.color=&quot;#888&quot;; this.style.textAlign=&quot;center&quot;; this.value=&quot;...search manuals...&quot;; }" /></form>&nbsp;&nbsp;<a href="file:///home/homecrypt/.racket/5.0.0.1/doc/index.html" title="up" pltdoc="x" onclick="return GotoPLTRoot(&quot;5.0.0.1&quot;);">top</a></span><span class="navright"><a href="wheres-the-collection.html" title="backward to &quot;3 Where is the Collection?&quot;" pltdoc="x">&larr; prev</a>&nbsp;&nbsp;<a href="index.html" title="up to &quot;Handin Server&quot;" pltdoc="x">up</a>&nbsp;&nbsp;<a href="server-setup.html" title="forward to &quot;5 Server Setup&quot;" pltdoc="x">next &rarr;</a></span>&nbsp;</div><h3>4<tt>&nbsp;</tt><a name="(part._.Client_.Customization)"></a>Client Customization</h3><ul><li><p>Rename (or make a copy of) the <span class="stt">"handin-client"</span>
+collection directory.  The new name should describe your class
+uniquely.  For example, <span class="stt">"uu-cpsc2010"</span> is a good name for CPSC
+2010 at the University of Utah.</p></li><li><p><div class="SIntrapara">Edit the first three definitions of <span class="stt">"info.ss"</span> in your
+renamed client collection:
+</div><div class="SIntrapara"><ul><li><p>For <span class="RktSym">name</span>, choose a name for the handin tool as it
+will appear in DrRacket&rsquo;s interface (e.g., the <span style="font-family: sans-serif; font-size: 80%; font-weight: bold">XXX</span> for
+the <span style="font-family: sans-serif; font-size: 80%; font-weight: bold">Manage XXX Handin Account...</span>  menu item).  Again,
+make the name specific to the course, in case a student installs
+multiple handin tools.  Do not use <span style="font-family: sans-serif; font-size: 80%; font-weight: bold">Handin</span> as the last
+part of the name, since <span style="font-family: sans-serif; font-size: 80%; font-weight: bold">Handin</span> is always added for
+button and menu names.</p></li><li><p>Uncomment the definitions of <span class="RktSym">tools</span>,
+<span class="RktSym">tool-names</span>, and <span class="RktSym">tool-icons</span>.  (But leave the
+latter field&rsquo;s definition as <span class="stt">"icon.png"</span>.)</p></li><li><p>For <span class="RktSym">server:port</span>, uncomment the line, and use the
+hostname and port where the server will be running to accept
+handin submissions.</p></li></ul></div></p><p>Optionally uncomment and edit the next two definitions,
+<span class="RktSym">web-menu-name</span> and <span class="RktSym">web-address</span>, to add an item to
+the <span style="font-family: sans-serif; font-size: 80%; font-weight: bold">Help</span> menu that opens a (course-specific) web page.</p></li><li><p>Replace <span class="stt">"icon.png"</span> in your renamed directory with a new
+32x32 icon.  This icon is displayed on startup with DrRacket&rsquo;s
+splash screen, and it is included at half size on the
+<span style="font-family: sans-serif; font-size: 80%; font-weight: bold">Handin</span> button.  A school logo is typically useful, as it
+provides a recognizably local visual cue.  If students might use
+multiple installed handin tools, then make sure to vary the icon
+according to the course.</p></li><li><p>Replace <span class="stt">"server-cert.pem"</span> in your renamed directory
+with a server certificate.  The file <span class="stt">"server-cert.pem"</span> in
+<span class="stt">"handin-client"</span> collection is ok for testing, but the point
+of this certificate is to make handins secure, so you should
+generate a new (self-certifying) certificate and keep its key
+private.  (See <a href="server-setup.html" pltdoc="x">Server Setup</a>.)</p></li><li><p><div class="SIntrapara">To create an installable package, run
+</div><div class="SIntrapara"><span class="hspace">&nbsp;&nbsp;</span><span class="stt">mzc --collection-plt &lt;name&gt;.plt &lt;name&gt;</span></div><div class="SIntrapara"> where <span class="stt">&lt;name&gt;</span>
+is the name that you chose for your directory (i.e., whatever you
+changed <span class="stt">"handin-client"</span> to).</div></p><p><div class="SIntrapara">This directory should exist in your <span class="stt">"collects"</span> directory:
+this can be done by making sure that the copy is in the same place the
+original client directory was (see <a href="wheres-the-collection.html" pltdoc="x">Where is the Collection?</a>) or
+by specifying a value for the <span class="stt">PLTCOLLECTS</span> environment
+variable.  For example, if your customized collection directory is
+called <span class="stt">"cs1"</span> and it is located at
+<span class="stt">"/home/joe/intro/cs1"</span>, then you can run
+</div><div class="SIntrapara"><span class="hspace">&nbsp;&nbsp;</span><span class="stt">PLTCOLLECTS=/home/joe/intro: mzc --collection-plt cs1.plt cs1</span></div><div class="SIntrapara">(Don&rsquo;t forget the colon at the end of the <span class="stt">PLTCOLLECTS</span> value;
+it is important!)</div></p><p>Note that if you create an updated copy of the client package (that
+is, students already have an older version installed), then you should
+use the <span class="nobreak"><span class="stt">--replace</span></span> to indicate that the package should replace
+existing files instead of throwing an error.</p></li><li><p>Distribute <span class="stt">"&lt;name&gt;.plt"</span> to students for installation
+into their copies of DrRacket.  The students need not have access to
+the DrRacket installation directory; the tool will be installed on
+the filesystem in the student&rsquo;s personal space.  If you want to
+install it once on a shared installation, use setup-plt with the
+<span class="nobreak"><span class="stt">--all-users</span></span> flag.</p></li></ul><div class="navsetbottom"><span class="navleft"><form class="searchform"><input class="searchbox" style="color: #888;" type="text" value="...search manuals..." title="Enter a search string to search the manuals" onkeypress="return DoSearchKey(event, this, &quot;5.0.0.1&quot;, &quot;../&quot;);" onfocus="this.style.color=&quot;black&quot;; this.style.textAlign=&quot;left&quot;; if (this.value == &quot;...search manuals...&quot;) this.value=&quot;&quot;;" onblur="if (this.value.match(/^ *$/)) { this.style.color=&quot;#888&quot;; this.style.textAlign=&quot;center&quot;; this.value=&quot;...search manuals...&quot;; }" /></form>&nbsp;&nbsp;<a href="file:///home/homecrypt/.racket/5.0.0.1/doc/index.html" title="up" pltdoc="x" onclick="return GotoPLTRoot(&quot;5.0.0.1&quot;);">top</a></span><span class="navright"><a href="wheres-the-collection.html" title="backward to &quot;3 Where is the Collection?&quot;" pltdoc="x">&larr; prev</a>&nbsp;&nbsp;<a href="index.html" title="up to &quot;Handin Server&quot;" pltdoc="x">up</a>&nbsp;&nbsp;<a href="server-setup.html" title="forward to &quot;5 Server Setup&quot;" pltdoc="x">next &rarr;</a></span>&nbsp;</div></div></div><div id="contextindicator">&nbsp;</div></body></html>

@@ -1,0 +1,181 @@
+# mye's local screenrc
+startup_message off
+vbell off
+msgwait 1
+activity "         Activity has appeared in window      %n - %t"
+altscreen on
+autodetach on
+defscrollback 4000
+deflogin off
+defflow off
+flow off
+shell -zsh
+shelltitle ''
+hardstatus alwayslastline "%{= KW}%-w%{= yk}%n %t%{-}%+w %=%H / %c / %l"
+#attrcolor b ".I"
+#termcapinfo xterm 'Co#256:AB=\E[48;5;%dm:AF=\E[38;5;%dm' # tell screen how to set colors. AB = background, AF=foreground
+#defbce "on" # erase background with current bg color 
+
+# {{{1 bindings
+escape "^  "
+# Add keys to switch the escape key
+#bindkey -d -k F1 escape ^O^O # bound to F11
+#bindkey -d -k F2 escape \140\140 # bound to F12
+# bind ] paste .
+#bind f eval "caption splitonly" "hardstatus ignore"
+#bind F eval "caption always"    "hardstatus alwayslastline"
+# Make it harder to kill a windows accidentially
+bind k #unbind
+bind ^k #unbind
+bind K kill
+# To reload the config in a running screen
+bind e source $HOME/.screenrc
+bindkey "^J" prev
+bindkey "^K" next
+
+# start windows {{{1
+#screen -t terminal 0 bash
+screen -t chat 1 # irc client here
+screen -t message 2 # mutt here
+screen -t scratch 3 zsh --login -i
+#screen -t scratch 4 bash --login -i
+#screen -t logging 5 # log script here
+#screen -t remote 6 bash --login -i
+select 1
+
+
+#       Here is the full list of supported escapes: {{{1
+#       STRING ESCAPES
+#       Screen provides an escape mechanism to insert information like the cur
+#       rent time into messages or file names. The escape character is % with
+#       one  exception:  inside  of  a  windows hardstatus ^% (^E) is used
+#       instead.
+#
+#       %      the escape character itself
+#       a      either am or pm
+#       A      either AM or PM
+#       c      current time HH:MM in 24h format
+#       C      current time HH:MM in 12h format
+#       d      day number
+#       D      weekday name
+#       f      flags of the window
+#       F      sets %? to true if the window has the focus
+#       h      hardstatus of the window
+#       H      hostname of the system
+#       l      current load of the system
+#       m      month number
+#       M      month name
+#       n      window number
+#       s      seconds
+#       t      window title
+#       u      all other users on this window
+#       w      all window numbers and names. With - quailifier:  up  to  the
+#              current  window;  with  +  qualifier: starting with the window
+#              after the current one.
+#       W      all window numbers and names except the current one
+#       y      last two digits of the year number
+#       Y      full year number
+#       ?      the part to the next %? is displayed  only  if  a  %  escape
+#              inside the part expands to a nonempty string
+#       :      else part of %?
+#       =      pad  the  string to the displays width (like TeXs hfill). If a
+#              number is specified, pad  to  the  percentage  of  the  windows
+#              width.   A  0  qualifier  tells  screen to treat the number as
+#              absolute position.  You can specify to pad relative to the  last
+#              absolute  pad position by adding a + qualifier or to pad rela
+#              tive to the right margin by using . The padding truncates the
+#              string  if  the specified position lies before the current posi
+#              tion. Add the L qualifier to change this.
+#       <      same as %= but just do truncation, do not fill with spaces
+#       >      mark the current text position for  the  next  truncation.  When
+#              screen  needs  to do truncation, it tries to do it in a way that
+#              the marked position gets moved to the  specified  percentage  of
+#              the  output  area.  (The  area starts from the last absolute pad
+#              position and ends with the position specified by the  truncation
+#              operator.)  The L qualifier tells screen to mark the truncated
+#              parts with ....
+#       {      attribute/color modifier string terminated by the next "}"
+#
+#       ´     Substitute with the output of a backtick command.  The  length
+#              qualifier is misused to identify one of the commands.
+#
+#       The  c  and C escape may be qualified with a 0 to make screen use
+#       zero instead of space as fill character. The 0 qualifier  also  makes
+#       the  =  escape use absolute positions. The n and = escapes under
+#       stand a length qualifier (e.g. %3n), D and M can be prefixed with
+#       L  to  generate long names, w and W also show the window flags if
+#       L is given.
+
+#       MODIFIERS {{{1
+
+#       An attribute/color modifier is is used to change the attributes or  the
+#       color  settings.  Its  format  is "[attribute modifier] [color descrip
+#       tion]". The attribute modifier must be prefixed by a change type  indi
+#       cator  if  it  can  be  confused with a color desciption. The following
+#       change types are known:
+#
+#       +      add the specified set to the current attributes
+#       -      remove the set from the current attributes
+#       !      invert the set in the current attributes
+#       =      change the current attributes to the specified set
+#
+#       The attribute set can either be specified as a hexadecimal number or  a
+#       combination of the following letters:
+#
+#       d      dim
+#       u      underline
+#       b      bold
+#       r      reverse
+#       s      standout
+#       B      blinking
+
+#       COLORS {{{1
+
+#       Colors are coded either as a hexadecimal number or two letters specify
+#       ing the desired background and foreground color (in  that  order).  The
+#       following colors are known:
+#
+#       k      black
+#       r      red
+#       g      green
+#       y      yellow
+#       b      blue
+#       m      magenta
+#       c      cyan
+#       w      white
+#       d      default color
+#       .      leave color unchanged
+#
+#       The  capitalized  versions of the letter specify bright colors. You can
+#       also use the pseudocolor i to set just the brightness and leave  the
+#       color unchanged.
+#       A  one digit/letter color description is treated as foreground or back
+#       ground color dependant on the current attributes: if  reverse  mode  is
+#       set,  the  background color is changed instead of the foreground color.
+#       If you dont like this, prefix the color with a ".". If  you  want  the
+#       same behaviour for twoletter color descriptions, also prefix them with
+#       a ".".
+#       As a special case, "%{}" restores the attributes and colors that  were
+#       set  before the last change was made (i.e. pops one level of the color
+#       change stack).
+#
+#       Examples: {{{1
+#
+#       "G"    set color to bright green
+#
+#       "+b r" use bold red
+#
+#       "= yd" clear all attributes, write in default  color  on  yellow  back
+#              ground.
+#
+#       %Lw%{= BW}%50>%n%f* %t%{}%+Lw%<
+#              The  available  windows centered at the current window and trun
+#              cated to the available width. The current  window  is  displayed
+#              white  on  blue.   This can be used with "hardstatus alwayslast
+#              line".
+#
+#       %?%F%{.R.}%?%3n %t%? [%h]%?
+#              The window number and title and the windows hardstatus, if  one
+#              is  set.  Also use a red background if this is the active focus.
+#              Useful for "caption string".}}}
+# vim: fdm=marker
